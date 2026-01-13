@@ -26,7 +26,7 @@ Currently, I am learning full-stack development and working on small projects to
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Vijaysrimari_S?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Vijaysrimari_S?theme=dark&font=Baloo&animation=true" />
 </p>
 
 <p align="center">
