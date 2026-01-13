@@ -39,4 +39,4 @@ Currently, I am learning full-stack development and working on small projects to
 
 - 📧 Email: vijaysrimaris@gmail.com
 - 🌐 GitHub: https://Vijaysrimari.github.io
-- 🔗 LinkedIn: https://linkedin.com/in/(https://www.linkedin.com/in/vijaysrimari-s-5460a2315/)
+- 🔗 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/vijaysrimari-s-5460a2315/
