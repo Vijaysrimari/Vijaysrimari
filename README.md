@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vijaysri+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;AI+%26+Data+Science+Student;Future+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=600&color=000000&lines=Hi%2C+I'm+Vijaysri+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;AI+%26+Data+Science+Student;Future+Full+Stack+Developer" />
 </h1>
 
 <h3 align="center">AI & Data Science Student | Beginner in Full Stack</h3>
