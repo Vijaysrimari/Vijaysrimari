@@ -16,7 +16,7 @@ Currently, I am learning full-stack development and working on small projects to
 
 ## 🛠 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,vite,mongodb,git,github,vscode" />
 </p>
 
