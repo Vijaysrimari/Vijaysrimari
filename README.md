@@ -27,7 +27,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Vijaysrimari_S?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
 🔗 LeetCode Profile: https://leetcode.com/Vijaysrimari_S/
