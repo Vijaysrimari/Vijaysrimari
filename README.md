@@ -26,10 +26,13 @@ Currently, I am learning full-stack development and working on small projects to
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Vijaysrimari_S?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Vijaysrimari_S?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
 </p>
 
-🔗 LeetCode Profile: https://leetcode.com/Vijaysrimari_S/
+<p align="center">
+  🔗 https://leetcode.com/u/Vijaysrimari_S/
+</p>
+
 ---
 
 ## 📫 Contact Me
