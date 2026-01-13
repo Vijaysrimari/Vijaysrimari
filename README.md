@@ -23,6 +23,17 @@
 
 ---
 
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+🔗 LeetCode Profile: https://leetcode.com/Vijaysrimari_S/
+
+---
+
 ## 📌 My Projects
 
 - 🔹 [python_pro](https://github.com/Vijaysrimari/python_pro)
